@@ -2,7 +2,7 @@
 
 meu nome é aghata oliveira
 
- - estou estudando na alura
+ - estou estudando na [alura](https://.alura.com.br)
  - estou me desenvolvendo linguagem javascript
  - ultilizo esse espaço para minhha organização e compartilhamento dos meu projetos desenvolvidos
 
